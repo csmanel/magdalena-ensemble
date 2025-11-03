@@ -4,11 +4,11 @@ Welcome to the **[magdalena]** official web app! This Single Page Application is
 
 ## Features
 
-- ** Upcoming Events**  
+- **Upcoming Events**  
   Stay informed about our future performances and events.  
-- ** Member Information**  
+- **Member Information**  
   Learn about each of our ensemble members.  
-- ** Contact Us**  
+- **Contact Us**  
   Reach out to us with any inquiries or collaboration ideas.  
-- ** Donate**  
+- **Donate**  
   Support our work with an easy-to-use donation system.  
